@@ -20,13 +20,6 @@ public class FirstTest {
     }
 
     /**
-     * 修改方法
-     */
-    public void update(){
-        System.out.println("修改方法");
-    }
-
-    /**
      * 查找
      */
     public void find(){
