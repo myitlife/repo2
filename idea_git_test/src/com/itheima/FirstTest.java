@@ -19,22 +19,6 @@ public class FirstTest {
         System.out.println("删除方法");
     }
 
-    /**
-     * 修改方法
-     */
-    public void update(){
-        System.out.println("修改方法");
-    }
-
-
-
-    /**
-     * 查找
-     */
-    public void find(){
-        System.out.println("查询方法");
-    }
-
 
 
 }
