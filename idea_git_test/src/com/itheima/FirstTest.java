@@ -6,13 +6,6 @@ package com.itheima;
 public class FirstTest {
 
     /**
-     * 增加
-     */
-    public void add(){
-        System.out.println("add方法");
-    }
-
-    /**
      * 删除方法
      */
     public void del(){
