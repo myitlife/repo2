@@ -14,4 +14,8 @@ public class FirstTest {
         System.out.println("ccc");
         System.out.println("ccc");
     }
+
+    public void test(){
+        System.out.println("123");
+    }
 }
