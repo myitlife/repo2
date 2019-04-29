@@ -12,6 +12,9 @@ public class FirstTest {
         System.out.println("删除方法");
     }
 
+    public void find(){
+        System.out.println("查找");
+    }
 
 
     public void eat(){
