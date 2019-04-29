@@ -5,5 +5,7 @@ package com.itheima;
  */
 public class FirstTest {
 
+    public void test(){
 
+    }
 }
