@@ -13,4 +13,11 @@ public class FirstTest {
         System.out.println("ccc");
     }
 
+    public void ass(){
+        System.out.println("aaabbb");
+        System.out.println("bbb");
+        System.out.println("ccc");
+        System.out.println("ccc");
+        System.out.println("ccc");
+    }
 }
