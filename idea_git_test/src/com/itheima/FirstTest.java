@@ -27,4 +27,14 @@ public class FirstTest {
     }
 
 
+
+    /**
+     * 查找
+     */
+    public void find(){
+        System.out.println("查询方法");
+    }
+
+
+
 }
