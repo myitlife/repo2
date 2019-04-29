@@ -6,7 +6,7 @@ package com.itheima;
 public class FirstTest {
 
     public void del(){
-        System.out.println("aaa");
+        System.out.println("aaabbb");
         System.out.println("bbb");
     }
 }
