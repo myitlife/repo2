@@ -15,4 +15,8 @@ public class FirstTest {
     public void del(){
         System.out.println("删除方法");
     }
+
+    public void find(){
+        System.out.println("查询方法");
+    }
 }
