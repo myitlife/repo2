@@ -11,13 +11,16 @@ public class FirstTest {
         System.out.println("ccc");
         System.out.println("ccc");
         System.out.println("ccc");
-        System.out.println("ccc");
-        System.out.println("ccc");
-        System.out.println("ccc");
-        System.out.println("ccc");
     }
 
     public void test(){
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+    }
+
+    public void test3(){
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
