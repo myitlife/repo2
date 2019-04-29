@@ -5,21 +5,5 @@ package com.itheima;
  */
 public class FirstTest {
 
-    /**
-     * 删除方法
-     */
-    public void del(){
-        System.out.println("删除方法");
-    }
-
-    public void find(){
-
-    }
-
-
-    public void eat(){
-        System.out.println("吃饭");
-    }
-
 
 }
