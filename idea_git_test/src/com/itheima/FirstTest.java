@@ -19,5 +19,12 @@ public class FirstTest {
         System.out.println("删除方法");
     }
 
+    /**
+     * 修改方法
+     */
+    public void update(){
+        System.out.println("修改方法");
+    }
+
 
 }
