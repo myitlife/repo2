@@ -7,5 +7,6 @@ public class FirstTest {
 
     public void del(){
 
+        System.out.println("aaa");
     }
 }
