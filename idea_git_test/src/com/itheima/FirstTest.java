@@ -12,10 +12,19 @@ public class FirstTest {
         System.out.println("add方法");
     }
 
+    /**
+     * 删除方法
+     */
     public void del(){
         System.out.println("删除方法");
     }
 
+    /**
+     * 查询方法
+     */
+    public void find() {
+        System.out.println("查询方法");
+    }
     /**
      * 修改方法
      */
