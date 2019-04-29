@@ -23,4 +23,9 @@ public class FirstTest {
         System.out.println("123");
         System.out.println("123");
     }
+
+    public void test1(){
+        System.out.println("123");
+
+    }
 }
