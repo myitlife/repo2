@@ -17,4 +17,8 @@ public class FirstTest {
     public void eat(){
         System.out.println("吃饭");
     }
+
+    public void find(){
+        System.out.println("查找");
+    }
 }
