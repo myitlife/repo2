@@ -14,6 +14,7 @@ public class FirstTest {
 
     public void find(){
         System.out.println("查找");
+        System.out.println("bbbb");
     }
 
 
