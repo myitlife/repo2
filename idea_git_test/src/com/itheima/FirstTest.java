@@ -21,7 +21,5 @@ public class FirstTest {
         System.out.println("吃饭");
     }
 
-    public void find(){
-        System.out.println("查找");
-    }
+
 }
